@@ -1,7 +1,7 @@
 {
   "name": "tictactoe-react",
   "version": "0.0.0",
-  "homepage": "https://tictactoe-react-ayd2.vercel.app/",
+  "homepage": "https://tictactoe-react-ayd.vercel.app/",
   "main": "/src/index.js",
   "scripts": {
     "predeploy": "npm run build",
