@@ -1,7 +1,7 @@
 # tictactoe-react
  
 ## Screenshot
-![tictactoe-react](https://aydavid-thetechguy.github.io/assets/tictactoe-react.png)
+![tictactoe-react](https://aydavid-thetechguy.github.io/tictactoe-react/tictactoe-react.png)
 
 ## Details
 This is a tic-tac-toe game web app built using reactjs.
